@@ -1,0 +1,11 @@
+.black-flag.pc.sheet .sheet-body [data-tab="main"] .abilities .ability .ability-score {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 1.5rem;
+				height: 1.5rem;
+				border-radius: 100%;
+				background-color: rgb(45, 82, 129);
+				background-color: var(--bf-color-border-blue);
+				z-index: 2;
+			}
