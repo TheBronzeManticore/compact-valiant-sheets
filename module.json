@@ -1,4 +1,6 @@
-{userData}/Data/modules/
+
+{
+  {userData}/Data/modules/
   compact-valiant-sheets/
     module.json
     templates/
@@ -6,7 +8,7 @@
     styles/
     packs/
     lang/
-{
+
   "id": "compact-valiant-sheets",
   "title": "Compact Valiant Sheets",
   "version": "0.0.2",
