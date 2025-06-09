@@ -1,0 +1,28 @@
+{
+  "id": "compact-valiant-sheets",
+  "title": "Compact Valiant Sheets",
+  "version": "0.0.2",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "black-flag",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Just me trying to make Black Flag Sheets better",
+  "url": "https://github.com/TheBronzeManticore/compact-valiant-sheets",
+  "authors": [
+    {
+      "name": "The Bronze Manticore",
+      "url": "https://github.com/TheBronzeManticore",
+      "flags": {}
+    }
+  ]
+}
